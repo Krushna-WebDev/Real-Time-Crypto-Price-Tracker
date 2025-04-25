@@ -75,7 +75,7 @@ src/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/crypto-tracker.git
+git clone https://github.com/Krushna-WebDev/Real-Time-Crypto-Price-Tracker.git
 
 # 2. Navigate to the folder
 cd crypto-tracker
